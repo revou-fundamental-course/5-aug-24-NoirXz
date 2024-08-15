@@ -1,0 +1,19 @@
+{
+  "name": "mochramadhanih",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revou-fundamental-course/5-aug-24-NoirXz.git"
+  },
+  "author": "Dhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revou-fundamental-course/5-aug-24-NoirXz/issues"
+  },
+  "homepage": "https://github.com/revou-fundamental-course/5-aug-24-NoirXz#readme"
+}
